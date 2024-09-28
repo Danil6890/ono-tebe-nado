@@ -48,7 +48,7 @@
 
 .header__link-email {
   text-decoration: none;
-  border-bottom: 1px solid black;  
+  border-bottom: 1px solid black;
 }
 
 /*cover*/
@@ -80,7 +80,7 @@
 .aligned-text_right {
   text-align: right;
   line-height: 1;
-  padding-top: 20px; 
+  padding-top: 20px;
 }
 
 .letter-spacing-extended {
@@ -197,7 +197,7 @@
 
 .card__text {
   font-size: 20px;
-  font-family: raleway, sans-serif;;
+  font-family: raleway;
   line-height: 24px;
   z-index: 2;
 }
@@ -217,7 +217,7 @@
   height: 597px;
 }
 
-.about__column{
+.about__column {
   display: grid;
   grid-template-rows: 1fr;
   grid-template-columns: 1fr 2fr;
@@ -264,10 +264,10 @@
   justify-content: space-between;
   width: 1000px;
   height: 98px;
-  margin: 180px 50px 88px 50px; 
+  margin: 180px 50px 88px 50px;
 }
 
-.address{
+.address {
   font-style: normal;
   font-size: 18px;
   line-height: 24px;
@@ -291,7 +291,7 @@
   border-bottom: 1px solid black;
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
  text-decoration: none;
 }
 
