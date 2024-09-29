@@ -1,15 +1,14 @@
 .header {
   display: grid;
-  grid-template-columns: 1fr 135px 1fr;;
+  grid-template-columns: 1fr 135px 1fr;
   padding: 92px 50px 92px 50px;
-  
 }
 
 .menu__list {
   display: flex;
   font-size: 18px;
   gap: 35px;
-  margin-top: 40px;
+  margin-top: 43px;
   list-style-type: circle;
 }
 
@@ -163,11 +162,6 @@
   background-color: rgba(0,0,0,0.6);
   inset: 0;
   z-index: 1;
-}
-
-.card {
-  width: 334px;
-  min-height: 563px;
 }
 
 .card_type_film {
