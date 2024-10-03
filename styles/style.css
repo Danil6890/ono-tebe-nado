@@ -180,8 +180,8 @@
 .card__title {
   width: 254px;
   font-size: 22px;
-  font-weight: 700;
-  padding-top: 52px;
+  font-weight: normal;
+  padding-top: 54px;
   letter-spacing: 0.3px;
   text-transform: uppercase;
   text-decoration: underline;
