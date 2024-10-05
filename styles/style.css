@@ -37,12 +37,7 @@
   max-width: 236px;
 }
 
-.address-link-tel {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-}
-
-.address-link-email {
+.address-link {
   text-decoration: none;
   border-bottom: 1px solid black;
 }
